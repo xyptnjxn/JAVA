@@ -1,4 +1,4 @@
-package lucky.love.demo02;
+package lucky.love.demo02.Landlord;
 
 import java.util.ArrayList;
 import java.util.Collections;
